@@ -13,6 +13,7 @@ venv/
 # Data (large files — do NOT commit)
 data/raw/*.xlsx
 data/raw/*.csv
+!data/raw/sample_retail.csv
 data/processed/*.parquet
 data/processed/*.db
 
